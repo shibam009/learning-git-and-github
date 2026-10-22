@@ -1,4 +1,5 @@
 hello git
 this is my first git adventure!
 i wanna be candidate master on codeforces
-this is content from main branch
+this is content from main branch and the bug branch
+
